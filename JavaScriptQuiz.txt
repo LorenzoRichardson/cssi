@@ -1,0 +1,23 @@
+1. console.log("Hello World");
+
+2. var fname = 'Lorenzo';
+   var lname = 'Richardson';
+
+   console.log(fname, lname);
+
+3. x= 1
+   y= 2    a = b + (b=a, 0)
+
+4. if(isOn && lightsUp || !isOn && !lightsUp)
+
+5. 
+
+6.
+
+7.
+
+8.
+
+9.
+
+10.
